@@ -2,10 +2,8 @@
   "data": [
     {"drawBgImg": ""},
     {"drawImg": ""},
-    {"drawBg": ""},
-    {"drawTitle": "Monthly (API)"},
-    {"drawSubTitle": ""},
-    {"drawText": ""},
-    {"drawBtnText": "Enter Monthly Drawing (API)"}
+    {"drawTitle": "Mystery (API)"},
+    {"drawTime": "02:10:30"},
+    {"drawBtnLink": ""}
     ]
 }
